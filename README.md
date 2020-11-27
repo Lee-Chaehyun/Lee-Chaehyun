@@ -11,5 +11,8 @@
 - 가위바위보 게임으로 화면에 랜덤으로 나올 가위, 바위, 보에 대해<br>버튼을 눌러 가위바위보 게임을 진행하고, 이기면 승, 지면 패의 카운트가<br>
 올라간다. 단, 비기면 카운트는 올라가지 않는다. 
 
+### 최종 PPT
+- Issues -> pdf 파일
+
 ### 실제 실행 영상
-https://youtu.be/SCXQ-aZdYtU
+- https://youtu.be/SCXQ-aZdYtU
