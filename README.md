@@ -12,7 +12,7 @@
 올라간다. 단, 비기면 카운트는 올라가지 않는다. 
 
 ### 최종 PPT
-- Issues -> pdf 파일
+- Repositories -> Lee-Chaehyun -> Issues -> pdf 파일
 
 ### 실제 실행 영상
 - https://youtu.be/SCXQ-aZdYtU
